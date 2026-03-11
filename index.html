@@ -20,8 +20,12 @@
   <button type="button" id="btnSum">Sum</button>
   <p>Result: <strong id="result">—</strong></p>
 
-  <!-- Link to the compiled JS (compile sum.ts with: tsc sum.ts) -->
+  <!-- Load all compiled JS files -->
   <script src="sum.js"></script>
+  <script src="sub.js"></script>
+  <script src="mul.js"></script>
+  <script src="div.js"></script>
+
   <script>
     document.getElementById('btnSum').addEventListener('click', function () {
       var a = Number(document.getElementById('num1').value) || 0;
