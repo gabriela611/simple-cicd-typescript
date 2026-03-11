@@ -10,7 +10,7 @@ declare global {
 
 beforeAll(() => {
   // eslint-disable-next-line @typescript-eslint/no-require-imports
-  require("./sum.js");
+  require("./mul.js");
 });
 
 describe("mul", () => {
