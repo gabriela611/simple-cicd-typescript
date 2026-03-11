@@ -1,5 +1,5 @@
 /**
- * Returns the sum of two numbers.
+ * Returns the substraction of two numbers.
  */
 function sub(a: number, b: number): number {
   return a - b;

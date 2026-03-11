@@ -1,5 +1,5 @@
 /**
- * Returns the sum of two numbers.
+ * Returns the multiplication of two numbers.
  */
 function mul(a: number, b: number): number {
   return a * b;

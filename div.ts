@@ -1,5 +1,5 @@
 /**
- * Returns the sum of two numbers.
+ * Returns the division of two numbers.
  */
 function div(a: number, b: number): number {
   if (b === 0) {
